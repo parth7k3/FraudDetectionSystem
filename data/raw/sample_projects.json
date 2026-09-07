@@ -1,0 +1,20 @@
+[
+    {
+        "Project Name": "Road Construction",
+        "District": "Haridwar",
+        "Sanctioned Amount": 1000000,
+        "Status": "Ongoing"
+    },
+    {
+        "Project Name": "Water Supply Project",
+        "District": "Dehradun",
+        "Sanctioned Amount": 2500000,
+        "Status": "Completed"
+    },
+    {
+        "Project Name": "Community Hall",
+        "District": "Nainital",
+        "Sanctioned Amount": 1500000,
+        "Status": "Ongoing"
+    }
+]
