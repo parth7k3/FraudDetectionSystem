@@ -1,0 +1,21 @@
+invoice_no,project_id,contractor_name,gstin,item_description,category,quantity,unit,unit_rate,benchmark_rate,total_amount,billing_date,status
+INV-2025-0101,P001,Shivalik Constructions,05AABCS1234F1Z1,M-20 Grade Ready Mix Concrete for CC Road,Civil Works,140,cum,4800,4500,672000,2025-02-10,PAID
+INV-2025-0102,P001,Shivalik Constructions,05AABCS1234F1Z1,Excavation in ordinary soil for roadside drains,Earthwork,320,cum,195,180,62400,2025-02-18,PAID
+INV-2025-0103,P001,Shivalik Constructions,05AABCS1234F1Z1,RCC Hume Pipe 300mm NP3 for culverts,Drainage,85,meter,1250,1180,106250,2025-03-01,APPROVED
+INV-2025-0201,P002,Apex Infra Ventures,05AABCA9876K1Z9,Commercial RO Filtration Unit 1000 LPH,Water Supply,1,unit,385000,360000,385000,2024-04-12,PAID
+INV-2025-0202,P002,Apex Infra Ventures,05AABCA9876K1Z9,SS-304 Storage Tank 5000 Liters,Water Supply,2,nos,92000,88000,184000,2024-05-20,PAID
+INV-2025-0301,P003,Surya Green Energy Ltd,05AABCS4455P1Z3,12m Octagonal High Mast Pole with foundation,Electrical,1,set,480000,450000,480000,2024-07-15,PAID
+INV-2025-0302,P003,Surya Green Energy Ltd,05AABCS4455P1Z3,Flood Light Luminary 150W LED IP66,Electrical,6,nos,14500,13800,87000,2024-08-02,PAID
+INV-2025-0401,P004,Apex Infra Ventures,05AABCA9876K1Z9,Interlocking CC Paver Block 80mm M-30 Grade,Pavement,3500,sqm,135,54,472500,2025-03-05,UNDER_REVIEW
+INV-2025-0402,P004,Apex Infra Ventures,05AABCA9876K1Z9,Crushed Stone Aggregate sub-base 100mm,Civil Works,420,cum,1850,1200,777000,2025-03-12,UNDER_REVIEW
+INV-2025-0501,P005,Surya Green Energy Ltd,05AABCS4455P1Z3,Standalone 45W Solar LED Streetlight with LiFePO4,Solar Lighting,25,nos,42500,11200,1062500,2025-02-05,UNDER_REVIEW
+INV-2025-0502,P005,Surya Green Energy Ltd,05AABCS4455P1Z3,Galvanized MS Tubular Pole 6m with bracket,Electrical,25,nos,5200,4800,130000,2025-02-15,PAID
+INV-2025-0601,P006,Himalayan Builders Ltd,05AABCH3322D1Z0,GI Pipe 50mm Medium Class Jindal or equivalent,Plumbing,1200,meter,740,680,888000,2024-06-18,PAID
+INV-2025-0602,P006,Himalayan Builders Ltd,05AABCH3322D1Z0,RCC Over Head Service Reservoir 50000 Ltr Staging,Civil Works,1,job,3200000,2850000,3200000,2024-09-24,PAID
+INV-2025-0701,P007,Ganga Valley Infra,05AABCG7788M1Z2,Bronze Finish Commemorative Statue Structure,Prohibited Category,1,nos,850000,0,850000,2024-10-10,UNDER_REVIEW
+INV-2025-0801,P008,Apex Infra Ventures,05AABCA9876K1Z9,Heavy Duty Concrete Paving Blocks 80mm Thickness,Pavement,3200,sqm,138,54,441600,2025-03-18,UNDER_REVIEW
+INV-2025-0802,P008,Apex Infra Ventures,05AABCA9876K1Z9,Fine river bed sand cushioning 50mm thickness,Civil Works,180,cum,1400,950,252000,2025-03-22,UNDER_REVIEW
+INV-2025-0901,P009,Shivalik Constructions,05AABCS1234F1Z1,Vitrified Tile Flooring 600x600mm premium quality,Civil Works,450,sqm,850,780,382500,2024-07-20,PAID
+INV-2025-0902,P009,Shivalik Constructions,05AABCS1234F1Z1,Internal and External Acrylic Emulsion Painting,Finishing,1850,sqm,145,130,268250,2024-08-14,PAID
+INV-2025-1001,P010,Himalayan Builders Ltd,05AABCH3322D1Z0,Structural Steel Truss & Pre-painted Galvalume Sheet,Roofing,850,sqm,1650,1450,1402500,2024-05-15,PAID
+INV-2025-1002,P010,Himalayan Builders Ltd,05AABCH3322D1Z0,TMT Reinforcement Steel Fe-500D bar supply & bend,Civil Works,38,ton,78000,69000,2964000,2024-08-28,PAID

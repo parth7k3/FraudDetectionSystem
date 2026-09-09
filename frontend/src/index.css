@@ -1,0 +1,129 @@
+:root {
+  --bg-color: #f7f4ed;
+  --surface-color: #ffffff;
+  --text-primary: #2b2d2f;
+  --text-secondary: #5e6163;
+  --accent-primary: #a95a43;
+  --accent-secondary: #4f6b57;
+  --risk-high: #9c3b31;
+  --risk-medium: #c97b2a;
+  --risk-low: #4f6b57;
+  --border-color: #e2dcd0;
+  
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 6px rgba(0,0,0,0.05);
+  --radius: 8px;
+  
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: inherit;
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: #8c4a37;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card {
+  background-color: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge.high-risk {
+  background-color: #fceceb;
+  color: var(--risk-high);
+}
+
+.badge.medium-risk {
+  background-color: #fdf2e4;
+  color: var(--risk-medium);
+}
+
+.badge.low-risk {
+  background-color: #ecf3ed;
+  color: var(--risk-low);
+}
+
+button {
+  border-radius: var(--radius);
+  border: 1px solid transparent;
+  padding: 0.5em 1em;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: var(--surface-color);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+button:hover {
+  background-color: #f3f0e8;
+  border-color: #d1cbc0;
+}
+
+button.primary {
+  background-color: var(--accent-primary);
+  color: white;
+  border: none;
+}
+
+button.primary:hover {
+  background-color: #8c4a37;
+}

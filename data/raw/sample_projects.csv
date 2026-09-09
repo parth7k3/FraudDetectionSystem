@@ -1,4 +1,11 @@
-Project ID,Project Name,District,State,Sanctioned Amount,Amount Released,Amount Spent,Status,Start Date,Expected Completion Date,Actual Completion Date,Completion Percentage
-P001,Road Construction,Haridwar,Uttarakhand,"₹ 10,00,000","₹ 8,00,000","₹ 7,50,000",ONGOING,15/01/2025,15-01-2026,,75
-P002,Water Supply Project,Nainital,Uttarakhand,25 lakh,20 lakh,18 lakh,Completed,2025/03/10,10 Aug 2025,08/08/2025,100
-P003,Community Hall,Dehradun,Uttarakhand,"₹1,500,000","₹1,500,000","₹1,400,000",Completed,01-06-2024,June 1 2025,2025-05-28,95
+Project ID,Project Name,Contractor Name,District,State,Sanctioned Amount,Amount Released,Amount Spent,Status,Start Date,Expected Completion Date,Actual Completion Date,Completion Percentage
+P001,CC Road & Drain Construction Ward 5,Shivalik Constructions,Haridwar,Uttarakhand,1500000,1200000,1150000,ONGOING,15/01/2025,15/01/2026,,75
+P002,Community Drinking Water RO Plant,Apex Infra Ventures,Nainital,Uttarakhand,2500000,2000000,1920000,COMPLETED,10/03/2024,10/08/2024,08/08/2024,100
+P003,Solar High Mast Lighting at Main Chowk,Surya Green Energy Ltd,Dehradun,Uttarakhand,1200000,1200000,1180000,COMPLETED,01/06/2024,01/12/2024,28/11/2024,100
+P004,Const. of CC Road with Paver Block near Govt School Sec-4,Apex Infra Ventures,Haridwar,Uttarakhand,1800000,1500000,1450000,ONGOING,10/02/2025,10/02/2026,,60
+P005,Installation of 45W Solar LED Streetlights,Surya Green Energy Ltd,Dehradun,Uttarakhand,1400000,1400000,1385000,ONGOING,01/01/2025,30/06/2025,,90
+P006,Drinking Water Pipeline & Over Head Tank Phase 2,Himalayan Builders Ltd,Pauri Garhwal,Uttarakhand,4500000,4500000,4420000,ONGOING,15/04/2024,15/04/2025,,22
+P007,Memorial Statue and Commercial Shopping Complex,Ganga Valley Infra,Haridwar,Uttarakhand,3000000,1500000,1200000,ONGOING,01/08/2024,01/08/2025,,40
+P008,Pavement & Interlocking Tiles Laying at Primary School Sector 4,Apex Infra Ventures,Haridwar,Uttarakhand,1750000,1400000,1380000,ONGOING,28/02/2025,28/02/2026,,55
+P009,Primary Health Sub-Centre Building Renovation,Shivalik Constructions,Almora,Uttarakhand,2200000,1800000,1720000,ONGOING,10/05/2024,10/05/2025,,85
+P010,Construction of Multi-Purpose Cyclone & Rain Shelter,Himalayan Builders Ltd,Udham Singh Nagar,Uttarakhand,5000000,5000000,5240000,ONGOING,01/02/2024,01/02/2025,,70
