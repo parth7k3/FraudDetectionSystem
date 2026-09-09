@@ -1,4 +1,4 @@
-Project Name,District,Sanctioned Amount,Status,Start Date,Expected Completion Date,Actual Completion Date
-Road Construction,Haridwar,"₹ 10,00,000",ONGOING,15/01/2025,15-01-2026,
-Water Supply Project,Nainital,25 lakh,Completed,2025/03/10,10 Aug 2025,08/08/2025
-Community Hall,Dehradun,"₹1,500,000",Completed,01-06-2024,June 1 2025,2025-05-28
+Project ID,Project Name,District,State,Sanctioned Amount,Amount Released,Amount Spent,Status,Start Date,Expected Completion Date,Actual Completion Date,Completion Percentage
+P001,Road Construction,Haridwar,Uttarakhand,"₹ 10,00,000","₹ 8,00,000","₹ 7,50,000",ONGOING,15/01/2025,15-01-2026,,75
+P002,Water Supply Project,Nainital,Uttarakhand,25 lakh,20 lakh,18 lakh,Completed,2025/03/10,10 Aug 2025,08/08/2025,100
+P003,Community Hall,Dehradun,Uttarakhand,"₹1,500,000","₹1,500,000","₹1,400,000",Completed,01-06-2024,June 1 2025,2025-05-28,95
